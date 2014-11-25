@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_reminder_time">Time</string>
+    <string name="text_reminder_range">Range (mins)</string>
+    <string name="text_reminder_place">Place</string>
+    <string name="text_reminder_notes">Notes</string>
+    <string name="text_save_reminder">Save</string>
+    <string name="text_delete_reminder">Delete</string>
+    <string name="text_hint_time_picker">Click to pick a time</string>
+    <string name="text_hint_place">Pick location</string>
+    <string name="text_hint_notes">What do you want to be reminded about?</string>
+    
+    <string-array name="time_ranges">
+        <item>NONE</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+</resources>

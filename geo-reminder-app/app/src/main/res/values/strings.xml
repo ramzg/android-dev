@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo Reminder</string>
+    <string name="title_reminder_detail">Reminder Details</string>
+	<string name="txt_mainscreen_emailId_placeholder">Email ID</string>
+	<string name="txt_mainscreen_password_placeholder">Password</string>
+</resources>

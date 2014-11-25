@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_add_reminder_button">Add Reminder</string>
+    <string name="title_reminders_list">My Reminders</string>
+    
+</resources>

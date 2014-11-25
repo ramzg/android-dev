@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_reminder_details.xml -->
+    <eat-comment/>
+    <string-array name="time_ranges">
+        <item>NONE</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="action_forgot_password">Recover lost password</string>
+    <string name="action_sign_in_register"><b>Sign in</b></string>
+    <string name="action_sign_in_short">Sign in</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Geo Reminder</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="login_progress_signing_in">Signing in…</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_activity_reminders_list.xml -->
+    <eat-comment/>
+    <string name="text_add_reminder_button">Add Reminder</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_reminder_details.xml -->
+    <eat-comment/>
+    <string name="text_delete_reminder">Delete</string>
+    <string name="text_hint_notes">What do you want to be reminded about?</string>
+    <string name="text_hint_place">Pick location</string>
+    <string name="text_hint_time_picker">Click to pick a time</string>
+    <string name="text_reminder_notes">Notes</string>
+    <string name="text_reminder_place">Place</string>
+    <string name="text_reminder_range">Range (mins)</string>
+    <string name="text_reminder_time">Time</string>
+    <string name="text_save_reminder">Save</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="title_activity_login">Sign in</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_reminder_detail">Reminder Details</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings_activity_reminders_list.xml -->
+    <eat-comment/>
+    <string name="title_reminders_list">My Reminders</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="txt_mainscreen_emailId_placeholder">Email ID</string>
+    <string name="txt_mainscreen_password_placeholder">Password</string>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:spinnerItemStyle">@style/MooSpinnerItem</item>
+    </style>
+    <style name="LoginFormContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+    </style>
+    <style name="MooSpinnerItem" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:textAppearance">@style/MooTextAppearanceSpinnerItem</item>
+    </style>
+    <style name="MooTextAppearanceSpinnerItem" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">#FFF</item>
+    </style>
+</resources>

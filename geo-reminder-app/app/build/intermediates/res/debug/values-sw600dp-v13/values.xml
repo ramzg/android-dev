@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/cygwin/home/rgovindk/projects/android/geo-reminder-app/app/src/main/res/values-sw600dp/refs.xml -->
+    <eat-comment/>
+    <item name="main_screen" type="layout">@layout/main_screen</item>
+</resources>
